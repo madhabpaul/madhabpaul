@@ -76,49 +76,23 @@ A 23Y/O Full Stack developer🎯 from India. I'm passionate about Full-Stack Web
 <!-- stats A++ -->
 
 
-<img src="https://github-readme-stats-mu-dusky.vercel.app/api?username=proghead00&show_icons=true&theme=highcontrast&count_private=true&include_all_commits=true" />
-
-<!--NEW top lang
-<a href="https://github.com/proghead00/proghead00">
-  <img align="center" src="https://github-readme-stats-mu-dusky.vercel.app/api/top-langs/?username=proghead00&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>-->
+<img src="https://github-readme-stats-mu-dusky.vercel.app/api?username=madhabpaul&show_icons=true&theme=highcontrast&count_private=true&include_all_commits=true" />
 
 
-<!--<a href="https://gitstats.me/proghead00">
-  <img align="center" src="https://github-readme-stats-mu-dusky.vercel.app/api/top-langs/?username=proghead00&layout=compact&langs_count=8&theme=great-gatsby&line_height=27" />
-</a>
--->
 
 
 
 
 <br>
 
- [![Top Langs](https://github-readme-stats-mu-dusky.vercel.app/api/top-langs/?username=proghead00&layout=compact&langs_count=8&theme=great-gatsby)](https://gitstats.me/proghead00) 
+ [![Top Langs](https://github-readme-stats-mu-dusky.vercel.app/api/top-langs/?username=madhabpaul&layout=compact&langs_count=8&theme=great-gatsby)](https://gitstats.me/madhabpaul) 
 
 
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=proghead00&theme=chartreuse-dark)](https://wakatime.com/@proghead00)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=madhabpaul&theme=chartreuse-dark)](https://wakatime.com/@madhabpaul)
 
 
-<!--[![ReadMe Card](https://github-readme-stats-mu-dusky.vercel.app/api/pin/?username=proghead00&repo=Ultimate-JS-Projects-Collection&theme=react&show_owner=true )](https://github.com/proghead00/Ultimate-JS-Projects-Collection)-->
-
-<!--[![ReadMe Card](https://github-readme-stats-mu-dusky.vercel.app/api/pin/?username=proghead00&repo=Aiden-AI-News-App&theme=react&show_owner=true )](https://github.com/proghead00/Aiden-AI-News-App)-->
-
-
-
-
-<!--<img align="left" src="https://wakatime.com/share/@proghead00/a546c838-8700-4647-82cc-20c9d5b32e4f.svg" height="300">
-<img  src="https://wakatime.com/share/@proghead00/e416327c-3c38-4385-a76a-07ed1fee6be9.svg" height="300">-->
-
-
-<a href="https://github.com/proghead00/Ultimate-JS-Projects-Collection">
-  <img align="center" src="https://github-readme-stats-mu-dusky.vercel.app/api/pin/?username=proghead00&repo=Ultimate-JS-Projects-Collection&theme=react" />
-</a>
-<a href="https://github.com/proghead00/Aiden-AI-News-App">
-  <img align="center" src="https://github-readme-stats-mu-dusky.vercel.app/api/pin/?username=proghead00&repo=Aiden-AI-News-App&theme=react" />
-</a>
 
 [![HitCount](http://hits.dwyl.com/madhabpaul/madhabpaul.svg)](http://hits.dwyl.com/madhabpaul/madhabpaul)
 
