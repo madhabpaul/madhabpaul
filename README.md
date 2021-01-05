@@ -57,15 +57,12 @@ A 23Y/O B.Tech Graduate in Computer Science🎯. I'm passionate about Full-Stack
 </div>
 
 
-<img src="https://meshery.io/images/photos/madhab-paul.jpg" width="30%" align=right style="border-radius: 120px 20px 120px 20px;">
-
-
 <div align="center">
-<h1>## 💡 Goals for 2021</h1>
+<h1> 💡 Goals for 2021 <img src="https://media.giphy.com/media/LRxOdTTyh43IVvTZNm/source.gif" width="30px" height="35px" /></h1>
 
-- Build 50+ projects 
-- Master skill in JavaScript, ReactJS 
-- Start my own YouTube Channel 
+Build 50+ projects 
+Master skill in JavaScript, ReactJS 
+Start my own YouTube Channel 
 </div>
 
 <h1> <b>Github Updates <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="30px" height="35px"></b> </h1>
