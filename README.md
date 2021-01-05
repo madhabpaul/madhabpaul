@@ -4,8 +4,7 @@
 
 <h3 align="center">I'm a Full Stack Developer from India ❤</h3>
   
-A 23Y/O Full Stack developer🎯 from India. I'm passionate about Full-Stack Web Development.:bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Innovation and Automation :robot: 
-
+A 23Y/O Full Stack developer🎯 from India. I'm passionate about Full-Stack Web Development.:bar_chart:. I like automating things, learning new technology, and improving efficiency and performance. Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 Web Dev, :new: Innovation
 
 ![age](https://img.shields.io/badge/age-23-blue)
 ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
@@ -38,32 +37,32 @@ A 23Y/O Full Stack developer🎯 from India. I'm passionate about Full-Stack Web
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />
+<img src="https://img.favpng.com/10/21/4/computer-icons-php-portable-network-graphics-logo-ico-png-favpng-TH6XUTkQGPTk0FTxuCQV2k2q7.jpg" height="50" width="50">
 
 <br>
 
-<img src="https://github.com/madhabpaul/madhabpaul/blob/master/logos/php.png?raw=true" height="60" width="60">
-<img src="https://github.com/madhabpaul/madhabpaul/blob/master/logos/sql.png?raw=true" height="60" width="60">
-<img src="https://github.com/madhabpaul/madhabpaul/blob/master/logos/vs.png?raw=true" height="60" width="60">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" height="50" width="50">
+<img src="https://e7.pngegg.com/pngimages/637/970/png-clipart-mysql-enterprise-website-development-oracle-corporation-computer-programming-mysql-logo-blue-text.png" height="50" width="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" height="50" width="50">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />   
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />   
-<img src="https://github.com/madhabpaul/madhabpaul/blob/master/logos/c++.jpg?raw=true" height="60" width="60">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1200px-Adobe_Illustrator_CC_icon.svg.png" height="50" width="50">
 
 
 </div>
 
 <br >
 
-<img src="https://meshery.io/images/photos/madhab-paul.jpg" width="30%" align=right>
+<img src="https://meshery.io/images/photos/madhab-paul.jpg" width="30%" align=right style="border-radius: 120px 20px 120px 20px;">
 
 ## 💡 Goals for 2021
 
 - Build 50+ projects 
-- Become skilled in JavaScript, ReactJS 
+- Master skill in JavaScript, ReactJS 
 - Start my own YouTube Channel 
 
 <h1> <b>Github Updates <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="30px" height="35px"></b> </h1>
