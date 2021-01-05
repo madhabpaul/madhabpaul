@@ -4,11 +4,11 @@
 
 <h3 align="center">I'm a Full Stack Developer from India ❤</h3>
   
-A 23Y/O Full Stack developer🎯 from India. I'm passionate about Full-Stack Web Development.:bar_chart:. I like automating things, learning new technology, and improving efficiency and performance. Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 Web Dev, :new: Innovation
+A 23Y/O B.Tech Graduate in Computer Science🎯. I'm passionate about Full-Stack Web Development.:bar_chart:. I like automating things, learning new technology, and improving efficiency and performance. Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 Web Dev, :new: Innovation
 
 ![age](https://img.shields.io/badge/age-23-blue)
 ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
-![living](https://img.shields.io/badge/living-Guwahati-3c9)
+![living](https://img.shields.io/badge/living-India-3c9)
 ![](https://komarev.com/ghpvc/?username=madhabpaul&color=FF6700)
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
@@ -28,30 +28,37 @@ A 23Y/O Full Stack developer🎯 from India. I'm passionate about Full-Stack Web
 
 <div align="center">
 
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+ 
+<br>  
+  
+<img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" height="50" width="50">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" height="50" width="50">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />
-<img src="https://img.favpng.com/10/21/4/computer-icons-php-portable-network-graphics-logo-ico-png-favpng-TH6XUTkQGPTk0FTxuCQV2k2q7.jpg" height="50" width="50">
+<img src="https://icon2.cleanpng.com/20180519/vva/kisspng-web-development-php-logo-mobile-app-development-5b00d8716cb255.4468608315267820654452.jpg" height="50" width="50" alt="php">
+<img src="https://icon2.cleanpng.com/20180805/xwk/kisspng-logo-java-runtime-environment-programming-language-java-util-concurrentmodificationexception-%C3%96mer-5b6766aaf21ab4.3339227715335031469917.jpg" height="50" width="50" alt="java">
 
 <br>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" height="50" width="50">
-<img src="https://e7.pngegg.com/pngimages/637/970/png-clipart-mysql-enterprise-website-development-oracle-corporation-computer-programming-mysql-logo-blue-text.png" height="50" width="50">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" height="50" width="50">
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />   
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
+<img src="https://e7.pngegg.com/pngimages/637/970/png-clipart-mysql-enterprise-website-development-oracle-corporation-computer-programming-mysql-logo-blue-text.png" height="50" width="50" alt="mysql">
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /> 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />   
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1200px-Adobe_Illustrator_CC_icon.svg.png" height="50" width="50">
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />
 
+<br>
+
+
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" height="50" width="50">
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /> 
+<img style="margin: 10px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" height="50" />
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1200px-Adobe_Illustrator_CC_icon.svg.png" height="50" width="50">
 
 </div>
 
