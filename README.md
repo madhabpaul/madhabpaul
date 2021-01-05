@@ -60,8 +60,10 @@ A 23Y/O B.Tech Graduate in Computer Science🎯. I'm passionate about Full-Stack
 <div align="center">
 <h1> 💡 Goals for 2021 <img src="https://media.giphy.com/media/LRxOdTTyh43IVvTZNm/source.gif" width="30px" height="35px" /></h1>
 
-Build 50+ projects 
+Build 50+ projects
+<br>
 Master skill in JavaScript, ReactJS 
+<br>
 Start my own YouTube Channel 
 </div>
 
