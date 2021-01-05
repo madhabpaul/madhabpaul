@@ -10,6 +10,7 @@ A 23Y/O Full Stack developer🎯 from India. I'm passionate about Full-Stack Web
 ![age](https://img.shields.io/badge/age-23-blue)
 ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
 ![living](https://img.shields.io/badge/living-Guwahati-3c9)
+![](https://komarev.com/ghpvc/?username=madhabpaul&color=FF6700)
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
