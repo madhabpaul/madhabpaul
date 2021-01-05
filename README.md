@@ -15,10 +15,10 @@ A 23Y/O Full Stack developer🎯 from India. I'm passionate about Full-Stack Web
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🌱 I’m currently learning NodeJs and ReactJs
-- 👯 I’m looking to collaborate on Python projects and Basic Web Dev stuff
+- 👯 I’m looking to collaborate on ReactJs projects and Basic Web Dev stuff
 - 📫 How to reach me: You may follow me on [Instagram](https://www.instagram.com/madhabpaul) 
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: Jack of all trades , Master of None ! 
+- ⚡ Just of Fun: The glass is neither half-full nor half-empty, the glass is twice as big as it needs to be. 
 <br />
 
 
@@ -58,7 +58,7 @@ A 23Y/O Full Stack developer🎯 from India. I'm passionate about Full-Stack Web
 
 <br >
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmeshery.io%2Fcontributors%2Fmadhab-paul%2F&psig=AOvVaw2RxbaihCsdgq4Lo9_WIgUB&ust=1609937783562000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOiW7eLrhO4CFQAAAAAdAAAAABAD" width="45%" align=right>
+<img src="https://meshery.io/images/photos/madhab-paul.jpg" width="30%" align=right>
 
 ## 💡 Goals for 2021
 
@@ -89,13 +89,7 @@ A 23Y/O Full Stack developer🎯 from India. I'm passionate about Full-Stack Web
  [![Top Langs](https://github-readme-stats-mu-dusky.vercel.app/api/top-langs/?username=madhabpaul&layout=compact&langs_count=8&theme=great-gatsby)](https://gitstats.me/madhabpaul) 
 
 
-
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=madhabpaul&theme=chartreuse-dark)](https://wakatime.com/@madhabpaul)
-
-
-
-[![HitCount](http://hits.dwyl.com/madhabpaul/madhabpaul.svg)](http://hits.dwyl.com/madhabpaul/madhabpaul)
+<hr>
 
 <div align="center">
 
