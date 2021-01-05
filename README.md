@@ -33,8 +33,6 @@ A 23Y/O B.Tech Graduate in Computer Science🎯. I'm passionate about Full-Stack
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
- 
-<br>  
   
 <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" height="50" width="50">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" height="50" width="50">
@@ -50,10 +48,6 @@ A 23Y/O B.Tech Graduate in Computer Science🎯. I'm passionate about Full-Stack
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />
 
-<br>
-
-
-
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" height="50" width="50">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /> 
 <img style="margin: 10px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" height="50" />
@@ -62,32 +56,26 @@ A 23Y/O B.Tech Graduate in Computer Science🎯. I'm passionate about Full-Stack
 
 </div>
 
-<br >
 
 <img src="https://meshery.io/images/photos/madhab-paul.jpg" width="30%" align=right style="border-radius: 120px 20px 120px 20px;">
 
-## 💡 Goals for 2021
+
+<div align="center">
+<h1>## 💡 Goals for 2021</h1>
 
 - Build 50+ projects 
 - Master skill in JavaScript, ReactJS 
 - Start my own YouTube Channel 
+</div>
 
 <h1> <b>Github Updates <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="30px" height="35px"></b> </h1>
  
 
-
-
 <br />
 
 
-<!-- stats A++ -->
-
 
 <img src="https://github-readme-stats-mu-dusky.vercel.app/api?username=madhabpaul&show_icons=true&theme=highcontrast&count_private=true&include_all_commits=true" />
-
-
-
-
 
 
 <br>
