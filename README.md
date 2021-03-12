@@ -45,7 +45,7 @@ A 23Y/O B.Tech Graduate in Computer Science🎯. I'm passionate about Full-Stack
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
 <img src="https://e7.pngegg.com/pngimages/637/970/png-clipart-mysql-enterprise-website-development-oracle-corporation-computer-programming-mysql-logo-blue-text.png" height="50" width="50" alt="mysql">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />
-<img style="margin: 10px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficons8.com%2Ficon%2F74402%2Fmongodb&psig=AOvVaw06eKFBxtfvwd1DLMHdedV2&ust=1615659175680000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPCZ7M2tq-8CFQAAAAAdAAAAABAD" alt="mongoDB" height="50" />
+<img style="margin: 10px" src="https://i.ibb.co/2NYkcyf/mongodb.png" alt="mongoDB" height="50" />
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" height="50" width="50">
