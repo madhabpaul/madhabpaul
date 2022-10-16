@@ -1,17 +1,16 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
-<h1 align="center"> नमस्ते (Namaste), I'm Madhab Paul <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
-
+<h1 align="center"> नमस्ते (Namaste), I'm Madhab Paul <img src="https://media.giphy.com/media/Lpche1V8FsCcOmva0Z/giphy.gif" width="30px"> ! </h1>
 <h3 align="center">I'm a Full Stack Developer from India ❤</h3>
   
-A 23Y/O B.Tech Graduate in Computer Science🎯. I'm passionate about Full-Stack Web Development.:bar_chart:. I like automating things, learning new technology, and improving efficiency and performance. Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 Web Dev, :new: Innovation
+A 25Y/O B.Tech Graduate in Computer Science🎯. I'm passionate about Full-Stack Web Development.:bar_chart:. I like automating things, learning new technology, and improving efficiency and performance. Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 Web Dev, :new: Innovation
 
-![age](https://img.shields.io/badge/age-23-blue)
+![age](https://img.shields.io/badge/age-25-blue)
 ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
 ![living](https://img.shields.io/badge/living-India-3c9)
 ![](https://komarev.com/ghpvc/?username=madhabpaul&color=FF6700)
 
-<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="200px" align="right" alt="Github Image" src="https://i.ibb.co/9cjTRVP/pngwing-com.png" />
 
 - 🌱 I’m currently learning NodeJs and ReactJs
 - 👯 I’m looking to collaborate on ReactJs projects and Basic Web Dev stuff
@@ -58,7 +57,7 @@ A 23Y/O B.Tech Graduate in Computer Science🎯. I'm passionate about Full-Stack
 
 
 <div align="center">
-<h1> 💡 Goals for 2021 <img src="https://media.giphy.com/media/LRxOdTTyh43IVvTZNm/source.gif" width="30px" height="35px" /></h1>
+<h1> 💡 Goals for 2022 <img src="https://media.giphy.com/media/LRxOdTTyh43IVvTZNm/source.gif" width="30px" height="35px" /></h1>
 
 Build 50+ projects <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/source.gif" width="30px" height="35px"/>
 <br>
@@ -98,9 +97,8 @@ Start my own YouTube Channel <img src="https://media.giphy.com/media/j0Fks3yUAGX
 
 
 
-
+[![@madhabpaul's Holopin board](https://holopin.me/madhabpaul)](https://holopin.io/@madhabpaul)
 </div>
-
 
 ![](https://raw.githubusercontent.com/madhabpaul/madhabpaul/master/media/footer.png)
 
